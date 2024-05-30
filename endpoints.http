@@ -1,0 +1,8 @@
+POST http://10.40.0.15:8080/users
+Content-Type: application/json
+
+{
+    "email":" one@email.com",
+    "password": "123",
+    "roler": "ROLE_CUSTOMER"
+}
