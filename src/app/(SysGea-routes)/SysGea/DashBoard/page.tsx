@@ -4,9 +4,6 @@ import Nav from '@/app/components/Nav/Nav';
 
 
 
-
-
-
 export default function DashBoard(){
     return(
         <div>

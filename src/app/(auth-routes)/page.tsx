@@ -1,6 +1,6 @@
 
-import Nav from "./components/Nav/Nav";
-import Login from "./components/Login/Login";
+import Nav from "../components/Nav/Nav";
+import Login from "../components/Login/Login";
 
 export default function Home() {
   return (
